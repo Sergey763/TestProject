@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea983f84-054d-456b-95aa-ab928fdf0115" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k6jkvCIgg55gkfYOW8f8376gvY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestSix.firstTest">
+    <configuration name="First.testFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_login_password" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.First" />
+      <option name="METHOD_NAME" value="testFirst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First.testSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_login_password" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.First" />
+      <option name="METHOD_NAME" value="testSecond" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSix.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_login_password" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestSix" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSix.firstTest" />
+        <item itemvalue="JUnit.First.testFirst" />
+        <item itemvalue="JUnit.First.testSecond" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea983f84-054d-456b-95aa-ab928fdf0115" name="Default Changelist" comment="" />
+      <created>1605028081123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605028081123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1605105323169">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1605105323169" />
+    <state width="1396" height="10" key="GridCell.Tab.0.bottom" timestamp="1605130669221">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="10" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605130669221" />
+    <state width="1396" height="10" key="GridCell.Tab.0.center" timestamp="1605130669219">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="10" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605130669219" />
+    <state width="1396" height="10" key="GridCell.Tab.0.left" timestamp="1605130669219">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="10" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605130669219" />
+    <state width="1396" height="10" key="GridCell.Tab.0.right" timestamp="1605130669220">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="10" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605130669220" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1605094961447">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605094961447" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1605094294792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1605094294792" />
+    <state x="97" y="147" key="new project wizard" timestamp="1605198239646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1605198239646" />
+  </component>
+</project>
